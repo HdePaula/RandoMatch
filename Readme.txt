@@ -1,0 +1,1 @@
+Programa com o objetivo de criar uma grade de competição e sortear as posiçoes do competidores.
